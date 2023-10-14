@@ -1,7 +1,5 @@
-### This is the very first website that i've built.
+### This is the very first website that I have built
 
-Made at the end of june 2022 and it was horrible to say the least lol.
-
-Updated at the start of september. Now it's much much better.
+Made at june 2022 and it was horrible to say the least. Then it was Updated at the start of september and got a lot better.
 
 ### [Visit site](https://shimul0022.github.io/Astronomy/)
